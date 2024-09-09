@@ -1,0 +1,36 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #0056b3;
+}
+
+.navbar-nav .nav-link {
+  color: #0056b3;
+  margin-right: 20px;
+  transition: color 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #002752;
+}
+
+.hero-section {
+  background: linear-gradient(r)
+}
+
+.table-responsive {
+  margin-top: 30px;
+}
+
+.table th, .table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table th {
+  background-color: #0056b3;
+  color: #fff;
+}
